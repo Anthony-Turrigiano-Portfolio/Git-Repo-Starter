@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 > Add list of current changes that have not been committed here 
-## 0.0.1 - yyyy-mm-dd
+## 0.1.0 - yyyy-mm-dd
 ### Added: for new features
 > Add list of added features here
 ### Changed: for changes in existing functionality
